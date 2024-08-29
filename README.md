@@ -3,11 +3,11 @@ NewChessnut app (windows, ios, mac)
 
 ### ios
 
-(appstore)[https://apps.apple.com/us/app/new-chessnut-elevate-play/id6502445067]
+[appstore](https://apps.apple.com/us/app/new-chessnut-elevate-play/id6502445067)
 
 ### mac
 
-(appstore)[https://apps.apple.com/us/app/new-chessnut/id6651826808]
+[appstore](https://apps.apple.com/us/app/new-chessnut/id6651826808)
 
 ### windows
 
