@@ -9,6 +9,8 @@ NewChessnut app (windows, ios, mac)
 
 [appstore](https://apps.apple.com/us/app/new-chessnut/id6651826808)
 
+[dmg](https://github.com/chessnutech/NewChessnut/releases)
+
 ### windows
 
 * (required) Windows 10 1809+
