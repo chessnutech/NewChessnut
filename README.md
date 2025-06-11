@@ -1,6 +1,10 @@
 # NewChessnut
 NewChessnut app (windows, ios, mac)
 
+### Android
+
+[Google Play](https://play.google.com/store/apps/details?id=com.chessnutech.chessnutandroid)
+
 ### ios
 
 [appstore](https://apps.apple.com/us/app/new-chessnut-elevate-play/id6502445067)
